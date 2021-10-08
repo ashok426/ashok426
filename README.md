@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashok426
-- 👀 I’m interested in data vizualization, data preprocessing, finding patterns in data.
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in data vizualization, data preprocessing, data modelling and Machine learning
+- 🌱 I’m currently pursuing deep learning
 - 💞️ I’m looking for data analyst role, data scientist role
 - 📫 How to reach me ashok.c1055@gmail.com
 
