@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashok426
-- 👀 I’m interested in data vizualization, data preprocessing, data modelling and Machine learning
-- 🌱 I’m currently pursuing deep learning
-- 💞️ I’m looking for data analyst role, data scientist role
+- I am an aspiring data scientist..
+- 👀 Visit my websites: https://ashok426.github.io/ashok_the_analyst/
+- 👀 Visit my articles on medium: https://medium.com/@ashok.1055
 - 📫 How to reach me ashok.c1055@gmail.com
 
 <!---
