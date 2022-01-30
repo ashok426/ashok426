@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashok426
+- 👋 Hi, I’m ashok
 - I am an aspiring data scientist..
 - 👀 Visit my websites: https://ashok426.github.io/ashok_the_analyst/
 - 👀 Visit my articles on medium: https://medium.com/@ashok.1055
