@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ashok
-- I am an aspiring data scientist..
+- I am an Senior data scientist.
 - 👀 Visit my websites: https://ashok426.github.io/ashok_the_analyst/
 - 👀 Visit my articles on medium: https://medium.com/@ashok.1055
 - 📫 How to reach me ashok.c1055@gmail.com
